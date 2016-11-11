@@ -1,0 +1,7 @@
+# for x in 'spam':
+#    print(x)
+
+import math
+
+help(math.sin)
+print(math.sin(90))
